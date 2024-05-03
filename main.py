@@ -6,8 +6,6 @@
 6. Zaměňte 2, 3 a 5 hodnotu v seznamu za „auto“, 89 a „zelená“.'''
 
 
-
-
 x = "Static TvHead"
 print(x.lower())   
 print(x.count('j'))
